@@ -1,6 +1,7 @@
 # Image Processing (Barbara, Flower, Clock) - (reworked old work)
  
- Magnus H
+Magnus H
+
 **Topics:** image loading & typing, grayscale conversion, resizing, brightness & histograms, noise modeling (SNR→variance), denoising (average vs. median), edge detection (Sobel/LoG/Canny), multi-scale template matching (NCC).  
 **Tools:** MATLAB, Python (OpenCV), Peter Corke Machine Vision Toolbox
 
