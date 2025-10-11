@@ -1,4 +1,4 @@
-# Lab 2 — Image Feature Detection and Matching (Reworked)
+# Image Feature Detection and Matching (Reworked)
 
 Magnus H
 

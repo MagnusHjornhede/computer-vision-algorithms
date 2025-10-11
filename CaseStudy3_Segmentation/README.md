@@ -1,4 +1,4 @@
-# Case Study 4 — Image Segmentation and Feature Tracking
+# Image Segmentation and Feature Tracking
 
  Magnus H
 
