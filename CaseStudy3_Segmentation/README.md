@@ -1,6 +1,7 @@
 # Case Study 4 — Image Segmentation and Feature Tracking
 
  Magnus H
+
 **Topics:** Otsu thresholding, K-means clustering, SLIC superpixels, Hough line detection, and color-based object counting  
 **Tools:** Python (OpenCV, scikit-image, NumPy, Matplotlib)
 
