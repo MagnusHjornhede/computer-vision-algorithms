@@ -1,6 +1,7 @@
 # Depth Perception and 3D Reconstruction from Stereo Images
 
  Magnus H
+ 
 **Topics:** stereo calibration, rectification, disparity, 3D reconstruction, pedestrian detection  
 **Tools:** MATLAB (Stereo Camera Calibrator, ACF detector)
 
