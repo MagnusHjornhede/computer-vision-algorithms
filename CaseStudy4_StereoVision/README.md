@@ -1,7 +1,7 @@
 # Depth Perception and 3D Reconstruction from Stereo Images
 
  Magnus H
- 
+
 **Topics:** stereo calibration, rectification, disparity, 3D reconstruction, pedestrian detection  
 **Tools:** MATLAB (Stereo Camera Calibrator, ACF detector)
 
@@ -115,10 +115,8 @@ points3D = reconstructScene(disparityMap, stereoParams.ReprojectionMatrix) / 100
 - Scaled from **millimeters → meters**  
 - Generated a dense 3D point cloud.
 
-**Visuals**
 
-![Disparity map](./images/disparity_map.png)  
-![Reconstructed 3D points](./images/3d_reconstruction.png)
+![Reconstructed 3D points](./images/Pointcloud.png)
 
 ---
 
