@@ -1,4 +1,4 @@
-# Image Processing - (reworked old work)
+# Image Processing
 
 Magnus H
 
