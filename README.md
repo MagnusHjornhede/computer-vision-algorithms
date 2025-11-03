@@ -60,7 +60,7 @@ Explores 3D perception through binocular vision:
 
 ---
 
-## ⚙️ Technologies
+## Technologies
 
 - **Python 3.x**  
 - **OpenCV (cv2)**  
